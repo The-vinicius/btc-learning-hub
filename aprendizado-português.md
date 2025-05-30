@@ -33,6 +33,9 @@ Uma curadoria de links, vídeos, artigos, podcasts e ferramentas para aprender e
 ### 5.2 Exchanges com custódia
 ### 5.3 Serviços sem KYC
 
+**KYCNotMe**: Inúmeros serviços sem KYC - [Site](https://kycnot.me/)
+
+
 ## 🧾 6. Bitcoin para empresas e autônomos
 
 ## 🛒 7. Onde gastar Bitcoin no Brasil
