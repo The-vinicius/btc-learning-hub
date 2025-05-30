@@ -33,6 +33,8 @@ A curated list of tools, links, guides, and communities to help anyone get start
 ### 5.2 Custodial Exchanges
 ### 5.3 No-KYC Options
 
+**KYCNotMe**: Several services without KYC - [Site](https://kycnot.me/)
+
 ## 🧾 6. Bitcoin for Businesses
 
 ## 🛒 7. Where to Spend Bitcoin
