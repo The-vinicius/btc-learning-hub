@@ -17,9 +17,13 @@ A curated list of tools, links, guides, and communities to help anyone get start
 
 ## 💬 3. Community
 
-### 3.1 Forums
+### 3.1 Forums 
 ### 3.2 Telegram / Discord
 ### 3.3 Meetups & Events
+### 3.4 Git repositories
+
+- [Lightning Network Limitations – by renepickhardt](https://github.com/renepickhardt/Lightning-Network-Limitations)  
+  This repository contains Jupyter Notebooks and research papers that investigate the technical limitations of the Bitcoin Lightning Network protocol, particularly regarding its scalability for processing payments. It provides both theoretical insights and practical analysis of bottlenecks and constraints in the network.
 
 ## 🛠️ 4. Tutorials & Tools
 
