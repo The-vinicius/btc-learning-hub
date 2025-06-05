@@ -20,6 +20,10 @@ Uma curadoria de links, vídeos, artigos, podcasts e ferramentas para aprender e
 ### 3.1 Fóruns e grupos
 ### 3.2 Telegram / Discord
 ### 3.3 Eventos e Meetups
+### 3.4 Repositórios
+
+- [Lightning Network Limitations – por renepickhardt](https://github.com/renepickhardt/Lightning-Network-Limitations)  
+  Repositório contendo Notebooks e artigos que investigam as limitações técnicas do protocolo da Lightning Network do Bitcoin, com foco na escalabilidade de pagamentos. O conteúdo é voltado para análises teóricas e práticas sobre gargalos e restrições da rede.
 
 ## 🛠️ 4. Tutoriais e Ferramentas
 
