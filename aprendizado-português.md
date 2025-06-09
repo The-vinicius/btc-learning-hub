@@ -10,12 +10,14 @@ Uma curadoria de links, vídeos, artigos, podcasts e ferramentas para aprender e
 ## 📖 2. Conteúdo de aprofundamento
 
 ### 2.1 Vídeos
+- [Bitcoin e a Ameaça Quântica (Um Dossiê Técnico)](https://www.youtube.com/watch?v=DgEqFPc24C4)
 ### 2.2 Leituras online
 ### 2.3 Livros
 
 - [Mastering Bitcoin: Programming the Open Blockchain (3rd Edition) - por Andreas M. Antonopoulos, David A.](https://github.com/bitcoinbook/bitcoinbook)
   
 ### 2.4 Cursos
+- [Jornada para aprender sobre o blockchain do Bitcoin](https://www.youtube.com/watch?v=vXPlzLNIObs&list=PLmDINmHIqrRon7iFo3p0bdZDMYoZ3lKUV)
 ### 2.5 Podcasts e áudios
 
 ## 💬 3. Comunidade
