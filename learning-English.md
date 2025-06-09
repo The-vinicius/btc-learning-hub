@@ -6,6 +6,7 @@ A curated list of tools, links, guides, and communities to help anyone get start
 
 ## 🟠 1. Where to Start
 - Quick guides, beginner videos, 101s
+- [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)
 
 ## 📖 2. Deep Dives
 
