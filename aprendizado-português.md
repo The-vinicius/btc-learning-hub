@@ -18,6 +18,8 @@ Uma curadoria de links, vídeos, artigos, podcasts e ferramentas para aprender e
   
 ### 2.4 Cursos
 - [Jornada para aprender sobre o blockchain do Bitcoin](https://www.youtube.com/watch?v=vXPlzLNIObs&list=PLmDINmHIqrRon7iFo3p0bdZDMYoZ3lKUV)
+- [Plan ₿ Network - Cursos](https://planb.network/pt/courses)
+  
 ### 2.5 Podcasts e áudios
 
 ## 💬 3. Comunidade
