@@ -18,6 +18,9 @@ A curated list of tools, links, guides, and communities to help anyone get start
 - [Mastering the Lightning Network (1st Edition) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt](https://github.com/bitcoinbook/bitcoinbook)
   
 ### 2.4 Courses
+
+- [Plan ₿ Network - Courses](https://planb.network/en/courses)
+  
 ### 2.5 Podcasts & Audio
 
 ## 💬 3. Community
