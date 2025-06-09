@@ -9,6 +9,7 @@
 
 Este projeto reúne materiais de qualidade para aprender e usar Bitcoin, com foco em soberania, autocustódia e liberdade financeira.  
 This project brings together quality materials to learn and use Bitcoin, focused on sovereignty, self-custody, and financial freedom.
+
 Admin: [Leandro Guerra - Outspoken Market](https://www.linkedin.com/in/leandroguerra1/)
 
 ---
