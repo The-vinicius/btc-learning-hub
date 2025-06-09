@@ -12,6 +12,9 @@ A curated list of tools, links, guides, and communities to help anyone get start
 ### 2.1 Videos
 ### 2.2 Articles
 ### 2.3 Books
+
+- [Mastering Bitcoin: Programming the Open Blockchain (3rd Edition) - por Andreas M. Antonopoulos, David A.](https://github.com/bitcoinbook/bitcoinbook)
+  
 ### 2.4 Courses
 ### 2.5 Podcasts & Audio
 
@@ -34,6 +37,10 @@ A curated list of tools, links, guides, and communities to help anyone get start
 ## 💰 5. Acquiring Bitcoin
 
 ### 5.1 P2P / Non-Custodial
+
+- [Spike to Spike](https://spiketospike.com/)
+  P2P platform for private trading of Bitcoin (BTC) and Tether (USDT)
+
 ### 5.2 Custodial Exchanges
 ### 5.3 No-KYC Options
 
