@@ -12,6 +12,9 @@ Uma curadoria de links, vídeos, artigos, podcasts e ferramentas para aprender e
 ### 2.1 Vídeos
 ### 2.2 Leituras online
 ### 2.3 Livros
+
+- [Mastering Bitcoin: Programming the Open Blockchain (3rd Edition) - por Andreas M. Antonopoulos, David A.](https://github.com/bitcoinbook/bitcoinbook)
+  
 ### 2.4 Cursos
 ### 2.5 Podcasts e áudios
 
@@ -34,6 +37,10 @@ Uma curadoria de links, vídeos, artigos, podcasts e ferramentas para aprender e
 ## 💰 5. Como adquirir Bitcoin
 
 ### 5.1 P2P / Off-Exchange
+
+- [Spike to Spike](https://spiketospike.com/)
+  Plataforma P2P para negociação privada de Bitcoin (BTC) e Tether (USDT)
+  
 ### 5.2 Exchanges com custódia
 ### 5.3 Serviços sem KYC
 
