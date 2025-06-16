@@ -45,10 +45,19 @@ Uma curadoria de links, vídeos, artigos, podcasts e ferramentas para aprender e
 - [Spike to Spike](https://spiketospike.com/)
   Plataforma P2P para negociação privada de Bitcoin (BTC) e Tether (USDT)
   
+- [Best Wallet](https://bestwallet.com/es/)
+  Plataforma global P2P sem KYC, com suporte a mais de 60 blockchains e negociação direta entre usuários.  
+
+  
 ### 5.2 Exchanges com custódia
 ### 5.3 Serviços sem KYC
 
-**KYCNotMe**: Inúmeros serviços sem KYC - [Site](https://kycnot.me/)
+- [KYCNotMe](https://kycnot.me/) - Inúmeros serviços sem KYC
+
+### 5.4 Carteiras recomendadas
+
+- [Electrum](https://electrum.org)
+  Carteira leve, segura e não custodial para armazenar e acumular BTC. Você mantém o controle total das suas chaves privadas.  
 
 
 ## 🧾 6. Bitcoin para empresas e autônomos
