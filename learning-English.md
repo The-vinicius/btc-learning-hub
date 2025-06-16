@@ -56,13 +56,23 @@ A curated list of tools, links, guides, and communities to help anyone get start
 
 ### 5.1 P2P / Non-Custodial
 
-- [Spike to Spike](https://spiketospike.com/)
-  P2P platform for private trading of Bitcoin (BTC) and Tether (USDT)
 
-### 5.2 Custodial Exchanges
-### 5.3 No-KYC Options
+- [Spike to Spike](https://spiketospike.com)  
+  A P2P platform for private trading of Bitcoin (BTC) and Tether (USDT), with no KYC required.
 
-**KYCNotMe**: Several services without KYC - [Site](https://kycnot.me/)
+- [Best Wallet](https://bestwallet.com/es/)  
+  A global P2P platform with no KYC, supporting over 60 blockchains and enabling direct user-to-user trading.
+
+
+### 5.2 Custodial exchanges
+### 5.3 No-KYC options
+
+- [KYCNotMe](https://kycnot.me/) - Several services without KYC
+
+### 5.4 Recommended wallets
+
+- [Electrum](https://electrum.org)
+    A lightweight, secure, and non-custodial wallet for storing and accumulating BTC. You retain full control of your private keys.
 
 ## 🧾 6. Bitcoin for Businesses
 
