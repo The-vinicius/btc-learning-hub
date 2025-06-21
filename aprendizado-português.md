@@ -36,6 +36,9 @@ Uma curadoria de links, vídeos, artigos, podcasts e ferramentas para aprender e
 
 ### 4.1 Full node
 ### 4.2 Lightning Network
+
+- [PeerSwap - P2P BTC LN Balancing Protocol](https://www.peerswap.dev)
+  
 ### 4.3 Autocustódia e privacidade
 
 ## 💰 5. Como adquirir Bitcoin
