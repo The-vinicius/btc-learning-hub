@@ -50,6 +50,8 @@ A curated list of tools, links, guides, and communities to help anyone get start
 - [Splicing: resize Lightning channels](https://lightningsplice.com/splicing_explained.html)
 - [LN Markets: LN Exchange for bitcoin futures and options](https://lnmarkets.com/en/)
 - [PeerSwap - P2P BTC LN Balancing Protocol](https://www.peerswap.dev/)
+- [Lightning Terminal (LiT) is a browser-based interface for managing channel liquidity](https://github.com/lightninglabs/lightning-terminal)
+- 
   
 ### 4.3 Custody & Privacy
 
@@ -99,10 +101,10 @@ An append-only, cryptographically secured digital ledger composed of blocks. Eac
 A container for a batch of Bitcoin transactions, including a reference to the previous block and a nonce used in proof of work.
 
 **Genesis Block:**  
-The first block in the Bitcoin blockchain, mined by Satoshi Nakamoto in January 2009.
+The first block in the Bitcoin blockchain was mined by Satoshi Nakamoto in January 2009.
 
 **Mining:**  
-The process of creating new blocks by solving complex computational puzzles, verifying transactions, and securing the network.
+The process of creating new blocks involves solving complex computational puzzles, verifying transactions, and securing the network.
 
 **Hashrate:**  
 The total computational power used by the Bitcoin network to mine and process transactions.
