@@ -49,6 +49,7 @@ A curated list of tools, links, guides, and communities to help anyone get start
 - [Lightning Network White Paper](https://lightning.network/lightning-network-paper.pdf)
 - [Splicing: resize Lightning channels](https://lightningsplice.com/splicing_explained.html)
 - [LN Markets: LN Exchange for bitcoin futures and options](https://lnmarkets.com/en/)
+- [PeerSwap - P2P BTC LN Balancing Protocol](https://www.peerswap.dev/)
   
 ### 4.3 Custody & Privacy
 
